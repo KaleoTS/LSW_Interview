@@ -18,12 +18,16 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 1.0f;
     public Button shopButton;
     public TextMeshProUGUI player_money;
+    public int money;
+    public bool enableShopping;
 
     void Start()
     {
+        money = 500;
+        enableShopping = false;
         player_rb= GetComponent<Rigidbody2D>();
         shopButton.gameObject.SetActive(false);
-        player_money.text = "0";
+        player_money.text = money.ToString();
     }
 
     void FixedUpdate()
@@ -49,8 +53,8 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-
-        }
+        player_money.text = money.ToString();
+    }
 
     private bool tryToMove(Vector2 directionToMove)
     {
@@ -81,6 +85,7 @@ public class PlayerController : MonoBehaviour
         if (collision.CompareTag("NPC"))
         {
             shopButton.gameObject.SetActive(true);
+            enableShopping = true;
         }
     }
 
@@ -89,6 +94,17 @@ public class PlayerController : MonoBehaviour
         if (collision.CompareTag("NPC"))
         {
             shopButton.gameObject.SetActive(false);
+            enableShopping = false;
         }
+    }
+
+    public void BuyItem(Item item)
+    {
+        money -= item.value;
+    }
+
+    public void SellItem(Item item)
+    {
+        money += item.value;
     }
 }

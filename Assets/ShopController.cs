@@ -14,8 +14,8 @@ public class ShopController : MonoBehaviour
 
     #endregion 
 
-    public delegate void OnItemChanged();
-    public OnItemChanged onItemChangedCallback;
+    public delegate void OnItemChangedShop();
+    public OnItemChangedShop onItemChangedShopCallback;
 
     public List<Item> items = new List<Item>();
 
@@ -23,9 +23,9 @@ public class ShopController : MonoBehaviour
     {
         items.Add(item);
 
-        if (onItemChangedCallback != null)
+        if (onItemChangedShopCallback != null)
         {
-            onItemChangedCallback.Invoke();
+            onItemChangedShopCallback.Invoke();
         }
     }
 
