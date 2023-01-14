@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: BlueShirt
   m_EditorClassIdentifier: 
   name: Blue shirt
-  iconItem: {fileID: 0}
+  iconItem: {fileID: 1022849122, guid: 0e49d0b1af002d943ab77edf23ccebbd, type: 3}

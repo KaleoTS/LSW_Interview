@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c0d9879c8a5b06848a5c8153ebc4efd8
+guid: 5bedfe0a74370824dab36042358a8ded
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: body_caucassian_FULL_0
+      name: hair_midblack_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 353
-        width: 25
-        height: 36
+        x: 5
+        y: 172
+        width: 23
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a1a2b88a77ffb2468f853629a49c648
-      internalID: 1338344877
+      spriteID: 6a6d1ac341d722744b01cc9694a767fe
+      internalID: -1045204857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_1
+      name: hair_midblack_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 353
-        width: 25
-        height: 34
+        x: 42
+        y: 170
+        width: 23
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01e8714edf645924fb280e1118992111
-      internalID: 1601503359
+      spriteID: bddb57c0ff0f4b641ac71ac9fa04ab60
+      internalID: -293244830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_2
+      name: hair_midblack_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 353
-        width: 26
-        height: 37
+        x: 78
+        y: 173
+        width: 23
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 638df7df7522f0f419d77e0abf684db8
-      internalID: -123760625
+      spriteID: 2541005874823c042b80090580b93d74
+      internalID: -537449737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_3
+      name: hair_midblack_3
       rect:
         serializedVersion: 2
         x: 7
-        y: 304
+        y: 125
         width: 23
-        height: 37
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba5dbee36b65a14483fc3792da4cdea
-      internalID: -1604252330
+      spriteID: 733888966eb018e4f88d1845b8353fb1
+      internalID: -1364793979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_4
+      name: hair_midblack_4
       rect:
         serializedVersion: 2
         x: 43
-        y: 304
+        y: 123
         width: 23
-        height: 35
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc0937fca2d94054cab6b545dc494e33
-      internalID: 1127472898
+      spriteID: fe17cf84ee6042c4088d5d820d125d3e
+      internalID: 40340613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_5
+      name: hair_midblack_5
       rect:
         serializedVersion: 2
         x: 80
-        y: 304
+        y: 125
         width: 23
-        height: 37
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0724ccdb09eb7f4794b8db45003a08b
-      internalID: -683719742
+      spriteID: 34375ea3bb1e4984e849eefca8cda1d2
+      internalID: -957384400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_6
+      name: hair_midblack_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 256
-        width: 25
-        height: 36
+        x: 5
+        y: 79
+        width: 23
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c193850d7f344542bf30f587d5b13c3
-      internalID: -137397491
+      spriteID: 2291f070e729af846a57762f6b40d9a7
+      internalID: -1403622756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_7
+      name: hair_midblack_7
       rect:
         serializedVersion: 2
-        x: 41
-        y: 256
-        width: 25
-        height: 34
+        x: 42
+        y: 77
+        width: 23
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52356a67663ac5b4eb25ca04b0737817
-      internalID: 576038058
+      spriteID: a8998f29080a3fc46b7abad3cf4d03f1
+      internalID: 1823781824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_8
+      name: hair_midblack_8
       rect:
         serializedVersion: 2
-        x: 77
-        y: 256
-        width: 26
-        height: 37
+        x: 78
+        y: 80
+        width: 23
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56ed86b302cb94141a90fa70d8e795b6
-      internalID: 220404529
+      spriteID: 8c35e672228ad9944b7e52dab7483c05
+      internalID: -437986619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_9
+      name: hair_midblack_9
       rect:
         serializedVersion: 2
         x: 2
-        y: 207
+        y: 28
         width: 23
-        height: 37
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48f4626b5a608b84ea4f3e831eb20686
-      internalID: 659315766
+      spriteID: 7e413b071842fa04eb98cc4672e6b420
+      internalID: -602496645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_10
+      name: hair_midblack_10
       rect:
         serializedVersion: 2
         x: 39
-        y: 207
+        y: 26
         width: 23
-        height: 35
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a4fbfab515060743bc1958296753985
-      internalID: -59693566
+      spriteID: 71469b39a64502d4999f9956829da366
+      internalID: 1720078060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_11
+      name: hair_midblack_11
       rect:
         serializedVersion: 2
         x: 75
-        y: 207
+        y: 28
         width: 23
-        height: 37
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,176 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bbce3b039e076049bc18bd5ead86ee0
-      internalID: -2125390178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_12
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 156
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 111491e1ac22ac64aad62ee0db560a22
-      internalID: -1157008464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_13
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 156
-        width: 27
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6585576bf5e0a704cbb329082c5e4c65
-      internalID: 1246607167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_14
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 156
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf0e29930f7acd94abf3682c090afceb
-      internalID: 1400754805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_15
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 107
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 966635dc3fac1af45b29be37d184263f
-      internalID: -729261310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_16
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 107
-        width: 27
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f32d0daaeeae27442bb9b71cdf1264cb
-      internalID: -1989518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_17
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 107
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89d44211826f1d44e93ec09c7edc9909
-      internalID: 632306833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_18
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 56
-        width: 25
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e16bd92695ae874e9708a55524ac78c
-      internalID: 34722382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_19
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 56
-        width: 25
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42bf84a62df371041adb5cf4b2e16fd5
-      internalID: -708016248
+      spriteID: fd09ff674410d724e922e66db9147165
+      internalID: -1766233814
       vertices: []
       indices: 
       edges: []
@@ -547,26 +379,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      body_caucassian_FULL_19: -708016248
-      body_caucassian_FULL_5: -683719742
-      body_caucassian_FULL_17: 632306833
-      body_caucassian_FULL_1: 1601503359
-      body_caucassian_FULL_3: -1604252330
-      body_caucassian_FULL_0: 1338344877
-      body_caucassian_FULL_8: 220404529
-      body_caucassian_FULL_14: 1400754805
-      body_caucassian_FULL_11: -2125390178
-      body_caucassian_FULL_6: -137397491
-      body_caucassian_FULL_7: 576038058
-      body_caucassian_FULL_9: 659315766
-      body_caucassian_FULL_15: -729261310
-      body_caucassian_FULL_10: -59693566
-      body_caucassian_FULL_2: -123760625
-      body_caucassian_FULL_16: -1989518
-      body_caucassian_FULL_12: -1157008464
-      body_caucassian_FULL_13: 1246607167
-      body_caucassian_FULL_4: 1127472898
-      body_caucassian_FULL_18: 34722382
+      hair_midblack_4: 40340613
+      hair_midblack_10: 1720078060
+      hair_midblack_11: -1766233814
+      hair_midblack_1: -293244830
+      hair_midblack_3: -1364793979
+      hair_midblack_8: -437986619
+      hair_midblack_2: -537449737
+      hair_midblack_5: -957384400
+      hair_midblack_0: -1045204857
+      hair_midblack_7: 1823781824
+      hair_midblack_9: -602496645
+      hair_midblack_6: -1403622756
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

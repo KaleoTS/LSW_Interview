@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c0d9879c8a5b06848a5c8153ebc4efd8
+guid: 0e49d0b1af002d943ab77edf23ccebbd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: body_caucassian_FULL_0
+      name: cloths_blueshirtstripes_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 353
-        width: 25
-        height: 36
+        x: 6
+        y: 167
+        width: 21
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,83 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a1a2b88a77ffb2468f853629a49c648
-      internalID: 1338344877
+      spriteID: 795f6b1cec21a7842a98cf1e25c8930a
+      internalID: 396043381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 353
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01e8714edf645924fb280e1118992111
-      internalID: 1601503359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_2
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 353
-        width: 26
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 638df7df7522f0f419d77e0abf684db8
-      internalID: -123760625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_3
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 304
-        width: 23
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fba5dbee36b65a14483fc3792da4cdea
-      internalID: -1604252330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_4
+      name: cloths_blueshirtstripes_1
       rect:
         serializedVersion: 2
         x: 43
-        y: 304
-        width: 23
-        height: 35
+        y: 165
+        width: 21
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc0937fca2d94054cab6b545dc494e33
-      internalID: 1127472898
+      spriteID: bc7c1cdfed2cc2a43b133dd154dfbf21
+      internalID: 2036738131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_5
+      name: cloths_blueshirtstripes_2
       rect:
         serializedVersion: 2
         x: 80
-        y: 304
-        width: 23
-        height: 37
+        y: 168
+        width: 21
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0724ccdb09eb7f4794b8db45003a08b
-      internalID: -683719742
+      spriteID: 6450e2e3d63c7ba4a8c73fd95d5bc103
+      internalID: 1487464828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_6
+      name: cloths_blueshirtstripes_3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 256
-        width: 25
-        height: 36
+        x: 12
+        y: 117
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c193850d7f344542bf30f587d5b13c3
-      internalID: -137397491
+      spriteID: 640b94ac9fee87242a3fea6ca110d728
+      internalID: 682442127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_7
+      name: cloths_blueshirtstripes_4
       rect:
         serializedVersion: 2
-        x: 41
-        y: 256
-        width: 25
-        height: 34
+        x: 50
+        y: 115
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52356a67663ac5b4eb25ca04b0737817
-      internalID: 576038058
+      spriteID: 4c521c409a85cd647928f6bdeb9ab629
+      internalID: -802728344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_8
+      name: cloths_blueshirtstripes_5
       rect:
         serializedVersion: 2
-        x: 77
-        y: 256
-        width: 26
-        height: 37
+        x: 85
+        y: 117
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56ed86b302cb94141a90fa70d8e795b6
-      internalID: 220404529
+      spriteID: 38b145a4482b67a40929999140f16d39
+      internalID: -1672811537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_9
+      name: cloths_blueshirtstripes_6
       rect:
         serializedVersion: 2
-        x: 2
-        y: 207
-        width: 23
-        height: 37
+        x: 6
+        y: 70
+        width: 21
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48f4626b5a608b84ea4f3e831eb20686
-      internalID: 659315766
+      spriteID: 70b96e9b88f2ccc4487ba2645a8ab9a9
+      internalID: 799251634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_10
+      name: cloths_blueshirtstripes_7
       rect:
         serializedVersion: 2
-        x: 39
-        y: 207
-        width: 23
-        height: 35
+        x: 43
+        y: 68
+        width: 21
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a4fbfab515060743bc1958296753985
-      internalID: -59693566
+      spriteID: 326ca91a4fd07d84c9a466bad6165c5f
+      internalID: 1022849122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_11
+      name: cloths_blueshirtstripes_8
       rect:
         serializedVersion: 2
-        x: 75
-        y: 207
-        width: 23
-        height: 37
+        x: 80
+        y: 71
+        width: 21
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bbce3b039e076049bc18bd5ead86ee0
-      internalID: -2125390178
+      spriteID: 1b14e2e6a2fd7974babfc125688ffb33
+      internalID: -1780628282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_12
+      name: cloths_blueshirtstripes_9
       rect:
         serializedVersion: 2
-        x: 5
-        y: 156
-        width: 25
-        height: 34
+        x: 7
+        y: 20
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 111491e1ac22ac64aad62ee0db560a22
-      internalID: -1157008464
+      spriteID: 32103dd65c70ce0418cbfea344b8006d
+      internalID: -1495253605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_13
+      name: cloths_blueshirtstripes_10
       rect:
         serializedVersion: 2
-        x: 39
-        y: 156
-        width: 27
-        height: 38
+        x: 43
+        y: 18
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6585576bf5e0a704cbb329082c5e4c65
-      internalID: 1246607167
+      spriteID: 0908eb4facf084740b3db9ca1b4ace41
+      internalID: -986135477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_caucassian_FULL_14
+      name: cloths_blueshirtstripes_11
       rect:
         serializedVersion: 2
-        x: 78
-        y: 156
-        width: 25
-        height: 34
+        x: 79
+        y: 20
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,113 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0e29930f7acd94abf3682c090afceb
-      internalID: 1400754805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_15
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 107
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 966635dc3fac1af45b29be37d184263f
-      internalID: -729261310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_16
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 107
-        width: 27
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f32d0daaeeae27442bb9b71cdf1264cb
-      internalID: -1989518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_17
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 107
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89d44211826f1d44e93ec09c7edc9909
-      internalID: 632306833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_18
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 56
-        width: 25
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e16bd92695ae874e9708a55524ac78c
-      internalID: 34722382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_caucassian_FULL_19
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 56
-        width: 25
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42bf84a62df371041adb5cf4b2e16fd5
-      internalID: -708016248
+      spriteID: e1f89586113607740aca0a3fca9016b2
+      internalID: 1735091747
       vertices: []
       indices: 
       edges: []
@@ -547,26 +379,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      body_caucassian_FULL_19: -708016248
-      body_caucassian_FULL_5: -683719742
-      body_caucassian_FULL_17: 632306833
-      body_caucassian_FULL_1: 1601503359
-      body_caucassian_FULL_3: -1604252330
-      body_caucassian_FULL_0: 1338344877
-      body_caucassian_FULL_8: 220404529
-      body_caucassian_FULL_14: 1400754805
-      body_caucassian_FULL_11: -2125390178
-      body_caucassian_FULL_6: -137397491
-      body_caucassian_FULL_7: 576038058
-      body_caucassian_FULL_9: 659315766
-      body_caucassian_FULL_15: -729261310
-      body_caucassian_FULL_10: -59693566
-      body_caucassian_FULL_2: -123760625
-      body_caucassian_FULL_16: -1989518
-      body_caucassian_FULL_12: -1157008464
-      body_caucassian_FULL_13: 1246607167
-      body_caucassian_FULL_4: 1127472898
-      body_caucassian_FULL_18: 34722382
+      cloths_blueshirtstripes_8: -1780628282
+      cloths_blueshirtstripes_11: 1735091747
+      cloths_blueshirtstripes_7: 1022849122
+      cloths_blueshirtstripes_0: 396043381
+      cloths_blueshirtstripes_3: 682442127
+      cloths_blueshirtstripes_6: 799251634
+      cloths_blueshirtstripes_9: -1495253605
+      cloths_blueshirtstripes_2: 1487464828
+      cloths_blueshirtstripes_10: -986135477
+      cloths_blueshirtstripes_1: 2036738131
+      cloths_blueshirtstripes_5: -1672811537
+      cloths_blueshirtstripes_4: -802728344
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

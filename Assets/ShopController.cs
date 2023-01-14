@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Inventory : MonoBehaviour
+public class ShopController : MonoBehaviour
 {
     #region Singleton
-    public static Inventory instance;
+    public static ShopController instance;
 
     private void Awake()
     {
@@ -23,7 +23,7 @@ public class Inventory : MonoBehaviour
     {
         items.Add(item);
 
-        if(onItemChangedCallback != null)
+        if (onItemChangedCallback != null)
         {
             onItemChangedCallback.Invoke();
         }

@@ -6,5 +6,6 @@ using UnityEngine;
 public class Item : ScriptableObject
 {
     new public string name = "New Item";
+    public int value = 10;
     public Sprite iconItem = null;
 }
