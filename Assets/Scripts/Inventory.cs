@@ -1,10 +1,14 @@
+// Class Inventory, holds the list of itens in the PLAYERS inventory, as well as methods to put and take from that list
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Inventory : MonoBehaviour
 {
-    #region Singleton
+
+// Declaration of this class as a Singleton
+    #region Singleton                                   
     public static Inventory instance;
 
     private void Awake()
@@ -14,7 +18,7 @@ public class Inventory : MonoBehaviour
 
     #endregion 
 
-    public delegate void OnItemChanged();
+    public delegate void OnItemChanged();               // Delegate to force an update on the list based on changes
     public OnItemChanged onItemChangedCallback;
 
     public List<Item> items = new List<Item>();

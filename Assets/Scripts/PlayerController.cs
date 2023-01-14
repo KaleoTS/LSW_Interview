@@ -1,3 +1,6 @@
+// Class PlayerController
+// Moves the player, checks for proximity with NPC and holds the money quantity.
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -56,7 +59,7 @@ public class PlayerController : MonoBehaviour
         player_money.text = money.ToString();
     }
 
-    private bool tryToMove(Vector2 directionToMove)
+    private bool tryToMove(Vector2 directionToMove)             // Method to move the player, uses a Vector from the unity Input System.
     {
 
         int raycastCount = player_rb.Cast(directionToMove, //Direction to cast the ray
@@ -64,9 +67,9 @@ public class PlayerController : MonoBehaviour
                 raycastList, // List of hits
                 rayDistance * moveSpeed * Time.fixedDeltaTime); // lenght of the ray
 
-        Debug.DrawRay(transform.position, directionToMove * 10, Color.white);
+        //Debug.DrawRay(transform.position, directionToMove * 10, Color.white);
 
-        if (raycastCount == 0)
+        if (raycastCount == 0)                                  // Checks if the player can move to a spot.
         {
             player_rb.MovePosition(player_rb.position + directionToMove * moveSpeed * Time.fixedDeltaTime);
             return true;
@@ -75,7 +78,7 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    void OnMove(InputValue directionOfMovement)
+    void OnMove(InputValue directionOfMovement)                 //Method called by the InputSystem when one of the commands to move is pressed
     {
         moveInput = directionOfMovement.Get<Vector2>();
     }

@@ -1,3 +1,5 @@
+//Class to define the the itens as Scriptable Objects
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

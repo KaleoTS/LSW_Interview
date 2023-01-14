@@ -1,3 +1,7 @@
+// ShopController Class
+// Does the same as the Inventory Class, but for the Shop.
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,7 @@
+// Class InventorySlot
+// Defines the methods and variables of the slots in the inventory, both for the player and the shop
+
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -12,14 +16,14 @@ public class InventorySlot : MonoBehaviour
     public TextMeshProUGUI value;
     public TextMeshProUGUI itemname;
 
-    public GameObject player;
+    public GameObject player;                               // Cached a reference for the player, too make it easy to access its variables.
 
     private void Start()
     {
         CleanSlot();
         player = GameObject.Find("Player");
     }
-    public void AddItem(Item n_item)
+    public void AddItem(Item n_item)                        // method to add an item to the Slot
     {
         item = n_item;
 
@@ -30,7 +34,7 @@ public class InventorySlot : MonoBehaviour
 
     }
 
-    public void CleanSlot()
+    public void CleanSlot()                                 // Method to clear a slot       
     {
         item = null;
 
@@ -40,7 +44,7 @@ public class InventorySlot : MonoBehaviour
         itemname.text = "";
     }
 
-    public void SellItem()
+    public void SellItem()                                  // method to sell itens, both from the player > shop as well as shop > player
     {
         if (this.CompareTag("NPC"))
         {

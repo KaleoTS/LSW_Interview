@@ -1,3 +1,7 @@
+// ShopUI class
+// Does the same as the InventoryUI class, but controls the Shop UI.
+
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
